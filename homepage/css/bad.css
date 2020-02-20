@@ -1,0 +1,69 @@
+body {
+    background-image: url("../assets/bad-bg.jpg");
+    font: 15pt 'Comic Sans MS', sans-serif;
+    font-family: "Comic Sans MS", cursive;
+    text-align: center;
+}
+
+h1 {
+    color: #33BBFF;
+}
+
+.service-text {
+    color: #FFB533;
+}
+
+.bar {
+    width: 40%;
+    padding-left: 5rem;
+    padding-right: 5rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    background-color: red;
+    display: inline-flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.bar>a {
+    color: white;
+    text-decoration: none;
+    font-size: 15pt;
+}
+
+.text-img-area {
+    margin-top: 2rem;
+    width: 100%;
+    display: inline-flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.intro {
+    padding-left: 1rem;
+    color: pink;
+    display: block;
+    width: 50%;
+    height: auto;
+    word-wrap: break-word;
+    white-space: normal;
+}
+
+.img-container {
+    width: 15%;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.history {
+    color: crimson;
+}
+
+.contact {
+    color: yellow;
+}
