@@ -22,3 +22,17 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 Code is licensed under the Apache 2.0 license.
 
 
+Modifications I made to gutenberg HTML files
+=================
+* Removed the style tag along with the inline styles
+* Applied the stylesheet to the HTMLs
+* Center aligned texts
+* Changed background to paper-like texure
+* Changed size of the cover images
+* Formatted HTMLs
+
+References
+=================
+
+* Gutenberg background image
+[Image by mohamed Hassan from Pixabay](https://pixabay.com/illustrations/paper-background-texture-template-2500380/)
