@@ -9,8 +9,15 @@ h1 {
     color: #33BBFF;
 }
 
-.service-text {
+.highlights {
     color: #FFB533;
+}
+
+.highlights {
+    width: 80%;
+    display: inline-flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
 }
 
 .bar {
@@ -62,6 +69,10 @@ img {
 
 .history {
     color: crimson;
+}
+
+.service {
+    color: greenyellow;
 }
 
 .contact {

@@ -36,3 +36,5 @@ References
 
 * Gutenberg background image
 [Image by mohamed Hassan from Pixabay](https://pixabay.com/illustrations/paper-background-texture-template-2500380/)
+* CSS gradient templates
+[UI Gradients](https://uigradients.com/)
