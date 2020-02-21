@@ -38,3 +38,5 @@ References
 [Image by mohamed Hassan from Pixabay](https://pixabay.com/illustrations/paper-background-texture-template-2500380/)
 * CSS gradient templates
 [UI Gradients](https://uigradients.com/)
+* Background for ugly homepage
+[Vecteezy](https://www.vecteezy.com/vector-art/556930-space-with-stars-universe-space-infinity-and-starlight-background-starry-night-sky-galaxy-and-planets-in-cosmos-pattern)
